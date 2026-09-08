@@ -1,10 +1,11 @@
-\# Pablo Copa
+# Pablo Copa
+**Carrera:** Ingeniería de Sistemas
+**Equipo:** Control + Z
+**Lenguaje favorito:** Java
 
-\## Lenguaje favorito
+## Sobre mí
+Estudiante de Ingeniería de Sistemas apasionado por resolver problemas lógicos, el desarrollo de software con Java y la optimización de procesos mediante la tecnología.
 
-Java
-
-\## Por que participo en el concurso?
-
-Para mejorar mi base de programacion y resolucion de algortimos y problemas de logica.
+## Objetivo
+Aportar soluciones eficientes al desarrollo de mi equipo Control + Z, dominar el uso de Git y GitHub de forma profesional y superar las fases lógicas del concurso.
 
